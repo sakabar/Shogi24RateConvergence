@@ -1,0 +1,2 @@
+# shogi24_rate_convergence
+将棋24のレートが収束するまでの過程をシミュレート
